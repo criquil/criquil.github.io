@@ -180,7 +180,7 @@ const AdminDashboard: React.FC = () => {
                       Object.entries(transactionStats.transactionsByType).map(([type, count]) => (
                         <tr key={type}>
                           <td>{type}</td>
-                          <td>{count}</td>
+                          <td>{count as number}</td>
                         </tr>
                       ))}
                   </tbody>

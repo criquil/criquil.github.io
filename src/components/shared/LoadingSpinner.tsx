@@ -2,13 +2,13 @@ import React from 'react';
 import { Spinner } from 'react-bootstrap';
 
 interface LoadingSpinnerProps {
-  size?: 'sm' | 'lg';
+  size?: 'sm';
   variant?: string;
   className?: string;
 }
 
 const LoadingSpinner: React.FC<LoadingSpinnerProps> = ({
-  size = 'lg',
+  size = 'sm',
   variant = 'primary',
   className = ''
 }) => {
