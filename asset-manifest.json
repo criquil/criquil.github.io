@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cristian-bank/static/css/main.babfe062.css",
+    "main.js": "/cristian-bank/static/js/main.b34df8d3.js",
+    "static/js/453.31b17399.chunk.js": "/cristian-bank/static/js/453.31b17399.chunk.js",
+    "index.html": "/cristian-bank/index.html",
+    "main.babfe062.css.map": "/cristian-bank/static/css/main.babfe062.css.map",
+    "main.b34df8d3.js.map": "/cristian-bank/static/js/main.b34df8d3.js.map",
+    "453.31b17399.chunk.js.map": "/cristian-bank/static/js/453.31b17399.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.babfe062.css",
+    "static/js/main.b34df8d3.js"
+  ]
+}
