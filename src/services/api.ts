@@ -1,5 +1,5 @@
 import { db } from './db';
-import { User, Account, Transaction, CurrencyRate, Notification } from '../types';
+import { User, Account, Transaction, Notification } from '../types';
 import { v4 as uuidv4 } from 'uuid';
 
 export class AuthService {

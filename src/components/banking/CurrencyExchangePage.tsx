@@ -3,7 +3,7 @@ import { Container, Card, Form, Button, Alert } from 'react-bootstrap';
 import { useAuth } from '../../contexts/AuthContext';
 import { AccountService, TransactionService, NotificationService } from '../../services/api';
 import { Account } from '../../types';
-import { FormField, LoadingSpinner } from '../shared';
+import { FormField } from '../shared';
 import NavigationBar from '../NavigationBar';
 import { db } from '../../services/db';
 
